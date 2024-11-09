@@ -7,12 +7,12 @@ const connectionDB = require("./Database/connectionDB");
 const cors = require("cors");
 const path = require("path");
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 8000;
 
 const dirname = path.resolve();
 
 
-app.use(cors({ origin : "http://localhost:5173" , methods: ['GET', 'POST', 'DELETE', 'PUT'], allowedHeaders: ["Content-Type", "Authorization", "Cache-Control", "Expires", "Pragma"] , credentials: true}))
+app.use(cors({ origin : process.env.URL , methods: ['GET', 'POST', 'DELETE', 'PUT'], allowedHeaders: ["Content-Type", "Authorization", "Cache-Control", "Expires", "Pragma"] , credentials: true}))
 
 
 app.use(express.json());

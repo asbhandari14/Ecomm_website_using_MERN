@@ -11,7 +11,7 @@ const AppContextProvider=({children})=>{
     const [tokenValue, setTokenValue] = useState();
     const [hiddenNavbar, setHiddenNavbar] = useState(false);
 
-    const URL = "http://localhost:8000";
+    const URL = "https://zero1-ecommerce-website-using-mern.onrender.com";
     
  
     const darkModeValue=(mode)=>{
