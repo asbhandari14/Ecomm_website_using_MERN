@@ -104,9 +104,3 @@ $ npm run dev (for both client and server side)
 
 
 
-## 📝 &nbsp; License
-
-- This project is [MIT](./LICENSE) licensed.
-
-
-
