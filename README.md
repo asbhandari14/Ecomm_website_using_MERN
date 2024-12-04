@@ -18,10 +18,10 @@ Here is a Demo : [Demo](https://zero1-ecommerce-website-using-mern.onrender.com/
 If you are logged in as an admin a button in navbar will show up which gives you controll of adding products, all product list, all users and orders.
 
 - The HomePage :
-<img width = "800" src="https://imgur.com/a/ltdeVhP.png"/>  
+<img width = "800" src="https://imgur.com/dLJ5iQm.png"/>  
 
 - Products Section :
-<img width = "800" src="https://imgur.com/a/yKhXvLh.png"/>
+<img width = "800" src="https://imgur.com/d6s9lIj.png"/>
 
 - Single Product display page :
 <img width = "800" src="https://imgur.com/v3EZp1o.png"/>
