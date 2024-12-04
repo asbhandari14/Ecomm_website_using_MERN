@@ -1,5 +1,4 @@
 # Shopper : An online marketplace for shopping clothes
-[![Generic badge](https://img.shields.io/badge/Responsive-Yes-<COLOR>.svg)](https://eastclothing.herokuapp.com/) 
 ## Clothing E-Commerce Website Using MERN STACK. 
 
 
@@ -22,16 +21,16 @@ If you are logged in as an admin a button in navbar will show up which gives you
 <img width = "800" src="https://imgur.com/a/ltdeVhP.png"/>  
 
 - Products Section :
-<img width = "800" src="https://imgur.com/d6s9lIj.png"/>
+<img width = "800" src="https://imgur.com/a/yKhXvLh.png"/>
 
 - Single Product display page :
-<img width = "300" src="https://imgur.com/v3EZp1o.png"/>
+<img width = "800" src="https://imgur.com/v3EZp1o.png"/>
 
 - Cart :
 <img width = "800" src="https://imgur.com/OQRNXzv.png"/>  
 
 - Admin Add Product Page :
-<img width = "300" src="https://imgur.com/G1fFHdo.png"/>
+<img width = "800" src="https://imgur.com/G1fFHdo.png"/>
 
 - Admin Analyze Product :
 <img width = "800" src="https://imgur.com/osolmoI.png"/>
@@ -102,3 +101,12 @@ $ npm run dev (for both client and server side)
 ## &nbsp;
 ## &nbsp;
 ## &nbsp;
+
+
+
+## 📝 &nbsp; License
+
+- This project is [MIT](./LICENSE) licensed.
+
+
+
